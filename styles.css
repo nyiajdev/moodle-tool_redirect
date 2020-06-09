@@ -1,0 +1,4 @@
+/* Change badge color to white for readability. */
+body.path-admin-tool-redirect .generaltable .badge {
+    color: white;
+}
